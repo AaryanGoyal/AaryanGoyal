@@ -9,9 +9,8 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer Science student at University of Waterloo. I love to learn and build something new, productive, innovative and creative.
-<a href="https://drive.google.com/file/d/1Gszvum_hZzhX6cKeP0JvOsvLjqtyATYz/view?usp=share_link" target="_blank">Resume</a>
-* **I am interested in Data Science, Web Development**
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+
+<!--* **I am interested in Data Science, Web Development**-->
 - Outside tech, 📖 I love to play piano, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="aaryangoyal27@gmail.com">aaryangoyal27@gmail.com</a>
 - 🌐 <a href="https://srk224.github.io/portfolio/">Personal Portfolio</a>
