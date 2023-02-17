@@ -11,9 +11,9 @@
 I am an undergraduate Computer Science student at University of Waterloo. I love to learn and build something new, productive, innovative and creative.
 
 <!--* **I am interested in Data Science, Web Development**-->
-- Outside tech, 📖 I love to play piano, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 🎵 I love to play piano, 🏸 play badminton, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="aaryangoyal27@gmail.com">aaryangoyal27@gmail.com</a>
-- 🌐 <a href="https://srk224.github.io/portfolio/">Personal Portfolio</a>
+<!-- - 🌐 <a href="https://srk224.github.io/portfolio/">Personal Portfolio</a> -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -30,4 +30,3 @@ I am an undergraduate Computer Science student at University of Waterloo. I love
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanGoyal&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/AaryanGoyal">Aaryan Goyal</a>
